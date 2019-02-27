@@ -1,0 +1,4 @@
+(E b :: bar)(paratodo p::Persona)
+bebedor p && frecuenta p b
+( E b1 :: bebida )(paratodo b2::bar)
+sirve b1 b2 && (para todo p::persona ) (bebedor p && (!gustaDe p b1) 
